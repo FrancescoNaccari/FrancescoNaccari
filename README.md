@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Francesco and I'm a Junior Full-Stack Developer  from Palermo, Italy.</h2>
+<h2 align="left">Hi 👋! My name is Francesco and I'm a Junior Full-Stack Developer, Italy.</h2>
 
 ###
 
